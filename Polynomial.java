@@ -39,9 +39,6 @@ public class Polynomial
         {
             return true;
         }
-        else
-        {
-            return false;
-        }
+        return false;
     }
 }

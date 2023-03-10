@@ -7,25 +7,25 @@ Polynomial class:
  
 Trinomial class: 
 • 3 instance variables – lead coefficient, middle coefficient, and last coefficient (when the trinomial is 
-placed in standard form) 
+placed in standard form) (X)
 • 1 parameter constructor – 4 arguments passed, the degree and three coefficients. This constructor should 
-call on the super's constructor 
-• 3 accessor methods for the three instance variables 
+call on the super's constructor (X)
+• 3 accessor methods for the three instance variables (X)
 • toString() method that calls on the super's toString() method and also prints off the coefficient 
-values 
+values (X)
 • equals() method that calls on the super's equals() method to check if the terms and degree are 
-equivalent as well as check the three coefficients to see if those are equivalent. 
+equivalent as well as check the three coefficients to see if those are equivalent. (X)
  
 Quadratic class: 
-• 1 instance variable – the discriminant 𝑏2 −4𝑎𝑐 where 𝑎𝑥2 +𝑏𝑥+𝑐 
+• 1 instance variable – the discriminant 𝑏2 −4𝑎𝑐 where 𝑎𝑥2 +𝑏𝑥+𝑐 (X)
 • 1 parameter constructor – 3 arguments passed, standing for a, b, and c. This should call on the super's 
-constructor appropriately as well as calculate the discriminant and assign it correctly. 
-• 1 accessor method for the discriminant 
+constructor appropriately as well as calculate the discriminant and assign it correctly. (X)
+• 1 accessor method for the discriminant (X)
 • toString() method that calls on the super's toString() as well as prints off the quadratic 
-formatted as ax^2 + bx + c 
-• equals() method that calls on the super's equal() method 
+formatted as ax^2 + bx + c (X)
+• equals() method that calls on the super's equal() method (X)
 • hasRealSolutions() method uses the discriminant to check if the quadratic has real solutions 
-(discriminant >= 0). Returns true if it does and false if it does not. 
+(discriminant >= 0). Returns true if it does and false if it does not. (X)
 • firstZero() method returns the first zero from the quadratic formula (adding). You can assume this 
 method will only be called if there are real solutions. 
 • secondZero() method returns the second zero from the quadratic formula (subtracting). You can 
