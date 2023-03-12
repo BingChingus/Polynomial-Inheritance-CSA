@@ -27,8 +27,8 @@ formatted as ax^2 + bx + c (X)
 • hasRealSolutions() method uses the discriminant to check if the quadratic has real solutions 
 (discriminant >= 0). Returns true if it does and false if it does not. (X)
 • firstZero() method returns the first zero from the quadratic formula (adding). You can assume this 
-method will only be called if there are real solutions. 
+method will only be called if there are real solutions. (X)
 • secondZero() method returns the second zero from the quadratic formula (subtracting). You can 
-assume this method will only be called if there are real solutions. 
-• isPerfectSquare() method returns true if the quadratic is a perfect square trinomial 𝑎2 +2𝑎𝑏+
-𝑏2 and false if it is not. 
+assume this method will only be called if there are real solutions. (X)
+• isPerfectSquare() method returns true if the quadratic is a perfect square trinomial 𝑎^2 +2𝑎𝑏+
+𝑏^2 and false if it is not. (X)
