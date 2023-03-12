@@ -1,5 +1,5 @@
 # Polynomial-Inheritance-CSA
-This is another project assigned to me for APCSA. For this project, I had to create several classes related to polynomials and organize them into a hierarchy. Has some useful methods like finding the 1st/2nd Zero's of quadratic functions, determining if a quadratic's solutions are real, and if the quadratic is a perfect trinomial square. Might refine some aspects if I feel like it.
+This is another project assigned to me for APCSA. For this project, I had to create several classes related to polynomials and organize them into a hierarchy. Has some useful methods like finding the 1st/2nd zero's of quadratic functions, determining if a quadratic's solutions are real, and if the quadratic is a perfect trinomial square. Might refine some aspects if I feel like it.
 
 Files: 
 PolynomialInheritenceRunner - contains main method;
