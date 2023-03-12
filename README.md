@@ -5,4 +5,5 @@ Files:
 PolynomialInheritenceRunner - contains main method;
 Polynomial - parent class of trinomial/quadratic, creates polynomial objects, contains basic polynomial info like # of terms/degree;
 Trinomial - parent class of quadratic, creates trinomial objects, contains more specific info like coefficient values;
-Quadratic - creates quadratic objects, contains even more specific info like the value of the discriminant, also contains the useful methods mentioned above
+Quadratic - creates quadratic objects, contains even more specific info like the value of the discriminant, also contains the useful methods mentioned above;
+Criteria - just the criteria I had for the project, redundant
